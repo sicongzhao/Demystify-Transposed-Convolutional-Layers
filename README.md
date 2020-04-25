@@ -1,16 +1,10 @@
 # Demystify-Transposed-Convolutional-Layers
 
-By [Sicong Zhao](www.sicongzhao.com), Duke University, 
+This repository contains visualization and PyTorch code of the tutorial: 
 
+> Sicong Zhao, Duke University - **[Demystify Transposed Convolutional Layers](https://medium.com/@luo9137/demystify-transposed-convolutional-layers-6f7b61485454)** 
 
-
-This repository contains visualization and PyTorch implementation of transposed convolutional layers.
-
-Please read my article on medium for a step-by-step tutorial :  **[Demystify Transposed Convolutional Layers](https://medium.com/@luo9137/demystify-transposed-convolutional-layers-6f7b61485454)** 
-
-
-
-### Table of content
+It contains:
 
 * **[Animation](./animation)**: visualization source files
 * **[Calculation processes](./calculation%20processes)**: visualization of calculation processes, and derived math functions
@@ -58,6 +52,7 @@ Please read my article on medium for a step-by-step tutorial :  **[Demystify Tra
 
 <img src="./calculation%20processes/5.dilation.jpeg" >
 
-### **Acknowledgment:** 
+### **Acknowledgment**
 
 The style of animation design is inspired by this [Github Repo](https://github.com/vdumoulin/conv_arithmetic).
+
