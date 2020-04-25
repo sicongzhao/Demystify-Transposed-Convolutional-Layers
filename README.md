@@ -10,7 +10,7 @@ Please read my article on medium for a step-by-step tutorial :  **[Demystify Tra
 
 
 
-#### Table of content
+### Table of content
 
 * **[Animation](./animation)**: visualization source files
 * **[Calculation processes](./calculation%20processes)**: visualization of calculation processes, and derived math functions
@@ -18,7 +18,7 @@ Please read my article on medium for a step-by-step tutorial :  **[Demystify Tra
 
 
 
-#### Visualizations of Transposed Convolutional Layers
+### Visualizations of Transposed Convolutional Layers
 
 **Case1 Basic**
 
@@ -57,3 +57,7 @@ Please read my article on medium for a step-by-step tutorial :  **[Demystify Tra
 <img src="./animation/5.Dilation/dilation.gif" />
 
 <img src="./calculation%20processes/5.dilation.jpeg" >
+
+### **Acknowledgment:** 
+
+The style of animation design is inspired by this [Github Repo](https://github.com/vdumoulin/conv_arithmetic).
