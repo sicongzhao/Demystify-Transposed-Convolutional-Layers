@@ -2,13 +2,15 @@
 
 This repository contains visualization and PyTorch code of the tutorial: 
 
-> Sicong Zhao, Duke University - **[Demystify Transposed Convolutional Layers](https://medium.com/@luo9137/demystify-transposed-convolutional-layers-6f7b61485454)** 
+* Sicong Zhao, Duke University - **[Demystify Transposed Convolutional Layers](https://medium.com/@luo9137/demystify-transposed-convolutional-layers-6f7b61485454)** 
 
 It contains:
 
-* **[Animation](./animation)**: visualization source files
-* **[Calculation processes](./calculation%20processes)**: visualization of calculation processes, and derived math functions
-* **[Code](./code)**: PyTorch implementation of each visualized cases
+>  **[Animation](./animation)**: visualization source files
+>
+> **[Calculation processes](./calculation%20processes)**: visualization of calculation processes, and derived math functions
+>
+> **[Code](./code)**: PyTorch implementation of each visualized cases
 
 
 
