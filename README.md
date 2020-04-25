@@ -54,5 +54,5 @@ It contains:
 
 ### **Acknowledgment**
 
-The style of animation design is inspired by this [Github Repo](https://github.com/vdumoulin/conv_arithmetic).
+The style of animation design is inspired by [**conv_arithmetic**](https://github.com/vdumoulin/conv_arithmetic).
 
