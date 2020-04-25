@@ -6,11 +6,9 @@ This repository contains visualization and PyTorch code of the tutorial:
 
 It contains:
 
->  **[Animation](./animation)**: visualization source files
->
-> **[Calculation processes](./calculation%20processes)**: visualization of calculation processes, and derived math functions
->
-> **[Code](./code)**: PyTorch implementation of each visualized cases
+> * [Animation](./animation): visualization source files
+> * [Calculation processes](./calculation%20processes): visualization of calculation processes, and derived math functions
+> * [Code](./code): PyTorch implementation of each visualized cases
 
 
 
